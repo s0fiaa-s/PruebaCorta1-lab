@@ -1,0 +1,50 @@
+.seccion2 {
+
+    width: 1250px;
+    margin-left: 30px;
+    margin-top: 50px;
+    padding-top: 40px;
+
+}
+
+.tz2{
+
+        display: flex;
+        align-items: center;
+        gap: 10px;
+
+}
+
+.sf {
+
+    font-size: 24px;
+    color: rgba(102, 102, 102, 1);
+    margin-right: 3px;
+
+}
+
+.tc {
+   
+    font-size: 24px;
+    color: rgba(0, 142, 204, 1);
+   
+}
+
+.view2 {
+
+    display: flex;
+    align-items: center;
+    width: 115px;
+    height: 27px;
+    margin-left: 768px;
+
+}
+
+.linea2 {
+
+    width: 1228px;
+    margin-top: 32px;
+    margin-left: 5px;
+    border: 1px solid rgba(237, 237, 237, 1);
+
+}
