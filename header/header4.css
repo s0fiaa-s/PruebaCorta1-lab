@@ -1,0 +1,112 @@
+.pt4 {
+
+    width: 1431px;
+    padding-top: 20px;
+    padding-left: 120px;
+
+}
+
+.h4 {
+
+    width: 1201px;
+    height: 316px;
+    background-color: rgba(33, 40, 68, 1);
+    border-radius: 16px;
+    margin-top: 30px;
+    margin-left: 48px;
+
+}
+
+.bdo {
+
+    width: 664px;
+    height: 30px;
+    margin-left: 103px;
+    padding-top: 34px;
+
+    color: white;
+    font-size: 24px;
+    font-family: monospace;
+
+}
+
+.sw {
+
+    width: 764px;
+    height: 56px;
+    margin-left: 100px;
+    padding-top: -14px;
+
+    color: white;
+    font-size: 63px;
+    font-family: monospace;
+
+
+}
+
+.off {
+
+    width: 302px;
+    height: 30px;
+    margin-left: 103px;
+
+
+    color: white;
+    font-size: 25px;
+    font-family: monospace;
+    margin-top: 30px;
+
+}
+
+.puntos {
+
+    width: 114px;
+    height: 8px;
+    margin-top: 90px;
+    margin-left: 100px;
+
+}
+
+.circulos {
+    
+    width: 509px;
+    height: 316px;
+    display: flex;
+    
+    margin-top: -282px;
+    padding-left: 692px;
+
+}   
+
+.reloj {
+
+    width: 268px;
+    height: 270px;
+    position: absolute;
+
+    margin-top: -150px;
+    margin-left: 603px;
+
+}
+
+.circulo1 {
+
+    width: 86px;
+    height: 86px;
+    display: flex;
+
+    margin-top: -208px;
+    margin-left: -44px;
+
+}
+
+.circulo2 {
+
+    width: 86px;
+    height: 86px;
+    display: flex;
+
+    margin-top: -90px;
+    margin-left: 1152px;
+
+}

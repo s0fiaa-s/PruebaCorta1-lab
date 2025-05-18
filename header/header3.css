@@ -1,0 +1,28 @@
+.pt3 {
+
+    width: 1431px;
+    height: 90px;
+ 
+    border: 1px solid rgba(237, 237, 237, 1);
+    background-color: rgba(255, 255, 255, 1);
+    
+ }
+
+.h3 {
+
+    font-size: 14px;
+    color: rgba(102, 102, 102, 1);
+    
+    padding: 12px 107px;
+
+}
+
+.select {
+
+    width: 1201px;
+    height: 36px;
+    padding-top: 14px;
+    border-radius: 18px;
+
+}
+
