@@ -1,0 +1,102 @@
+.seccion3 {
+
+    width: 1250px;
+    margin-left: 30px;
+    margin-top: 110px;
+    padding-top: 40px;
+
+}
+
+.tz3 {
+
+        display: flex;
+        align-items: center;
+        gap: 10px;
+
+}
+
+.t {
+
+    font-size: 24px;
+    color: rgba(102, 102, 102, 1);
+    margin-right: 3px;
+
+}
+
+.eb {
+   
+    font-size: 24px;
+    color: rgba(0, 142, 204, 1);
+   
+}
+
+.view3 {
+
+    display: flex;
+    align-items: center;
+    width: 115px;
+    height: 27px;
+    margin-left: 798px;
+
+}
+
+.linea3 {
+
+    width: 1228px;
+    margin-top: 32px;
+    margin-left: 5px;
+    border: 1px solid rgba(237, 237, 237, 1);
+
+}
+
+.iphone {
+
+    width: 389px;
+    height: 307px;
+    margin-top: 41px;
+    margin-left: 2px;
+    border-width: 1px;
+
+}
+
+.realme {
+
+    width: 389px;
+    height: 308px;
+    margin-top: 41px;
+    margin-left: 20px;
+    border-width: 1px;
+
+}
+
+.realme1 {
+
+    width: 114px;
+    height: 34px;
+    display: flex;
+
+    margin-top: -240px;
+    margin-left: 420px;
+    
+}
+
+.xiaomi {
+
+    width: 391px;
+    height: 309px;
+    margin-top: -105px;
+    margin-left: 817px;
+    border-width: 1px;
+
+}
+
+.xiaomi1 {
+
+    width: 67px;
+    height: 67px;
+    display: flex;
+
+    margin-top: -240px;
+    margin-left: 837px;
+    
+}
