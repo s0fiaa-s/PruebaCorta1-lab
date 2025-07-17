@@ -21,7 +21,7 @@
 
 .deliver {
 
-    width: 136px;
+    width: 176px;
     height: 18px;
     margin-left: auto; 
 
@@ -29,15 +29,14 @@
 
 .track {
     
-    width: 128px;
+    width: 168px;
     height: 18px;
-    margin-left: 20px;
 
 }
 
 .offers {
 
-    width: 82px;
+    width: 112px;
     height: 18px;
     margin-left: 20px; 
 
@@ -47,6 +46,11 @@
 
     color: rgba(102, 102, 102, 0.5);
     margin: 0 10px;
+    
 }
 
- 
+span {
+
+    font-weight: 400;
+    font-size: 14px;
+}
