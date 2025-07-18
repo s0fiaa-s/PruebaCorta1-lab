@@ -45,7 +45,7 @@
     width: 1228px;
     margin-top: 32px;
     margin-left: 5px;
-    border: 1px solid rgba(237, 237, 237, 1);
+    border-bottom: 1px solid #EDEDED;
 
 }
  
@@ -53,51 +53,410 @@
 
     width: 227px;
     height: 295px;
-    display: flex;
+    border-radius: 5px;
+    margin-top: 32px;
+    margin-left: 5px;  
+    border: 1px solid #EDEDED; 
+    background-color: #F5F5F5;
+    
+    text-align: center;
 
-    margin-top: 42px;
-    margin-left: 5px;   
+}
 
+.azul1 {
+
+    width: 51px;
+    height: 53px;
+    border-radius: 5px;
+    margin-left: 177px;
+    margin-top: -2px;
+
+    background-color: #008ECC;
+}
+
+.off1 {
+
+    color: white;
+    font-size: 15px;
+    padding: 4px;
+    width: 60px;
+    margin-left: auto;
+}
+
+
+.nm1 {
+
+    font-size: 14px;
+    margin: 10px 0 5px;
+
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 8px;
+}
+
+.precio-n1 {
+
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.precio-v1 {
+  
+    color: gray;
+    text-decoration: line-through;
+    font-size: 14px;
+    margin-left: 5px;
+    text-align: left;
+    
+}
+
+.save1 {
+
+    color: #249B3E;
+    font-size: 14px;
+    margin-top: 8px;
+
+    text-align: left;
+    margin-left: 15px;
 }
 
 .t2 {
 
-    width: 287px;
-    height: 435px;
+    width: 227px;
+    height: 295px;
+    border-radius: 5px;
     display: flex;
 
     margin-top: -300px;
-    margin-left: 235px;
+    margin-left: 255px;
+    border: 1px solid #008ECC; 
+    background-color: #F5F5F5;
     
+    text-align: center;
+    
+}
+
+.azul2 {
+
+    width: 51px;
+    height: 53px;
+    border-radius: 5px;
+    margin-left: 177px;
+    margin-top: -240px;
+
+    background-color: #008ECC;
+}
+
+.off2 {
+
+    color: white;
+    font-size: 15px;
+    padding: 4px;
+    width: 60px;
+    margin-left: auto;
+}
+
+.M13 {
+
+    margin-left: -155px;
+    margin-top: -37px;
+}
+
+.nm2 {
+
+    font-size: 13px;
+    margin: 10px 0 5px;
+
+    text-align: left;
+    margin-left: -165px;
+    margin-top: 140px;
+}
+
+.precio-n2 {
+
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+
+    text-align: left;
+    margin-left: -185px;
+    margin-top: 200px;
+}
+
+.precio-v2 {
+  
+    color: gray;
+    text-decoration: line-through;
+    font-size: 14px;
+    margin-left: 5px;
+    text-align: left;
+    
+}
+
+.save2 {
+
+    color: #249B3E;
+    font-size: 14px;
+    margin-top: 268px;
+
+    text-align: left;
+    margin-left: -125px;
 }
 
 .t3 {
 
-    width: 207px;
+    width: 227px;
     height: 295px;
+    border-radius: 5px;
     display: flex;
 
-    margin-top: -432px;
-    margin-left: 521px;  
+    border: 1px solid #EDEDED; 
+    background-color: #F5F5F5;
+    
+    text-align: center;
+
+    margin-top: -298px;
+    margin-left: 506px;  
     
 }
 
+.azul3 {
+
+    width: 51px;
+    height: 53px;
+    border-radius: 5px;
+    margin-left: 177px;
+    margin-top: -240px;
+
+    background-color: #008ECC;
+}
+
+.off3 {
+
+    color: white;
+    font-size: 15px;
+    padding: 4px;
+    width: 60px;
+    margin-left: auto;
+}
+
+.M33 {
+
+    margin-left: -155px;
+    margin-top: -37px;
+}
+
+.nm3 {
+
+    font-size: 13px;
+    margin: 10px 0 5px;
+
+    text-align: left;
+    margin-left: -165px;
+    margin-top: 140px;
+}
+
+.precio-n3 {
+
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+
+    text-align: left;
+    margin-left: -185px;
+    margin-top: 200px;
+}
+
+.precio-v3 {
+  
+    color: gray;
+    text-decoration: line-through;
+    font-size: 14px;
+    margin-left: 5px;
+    text-align: left;
+    
+}
+
+.save3 {
+
+    color: #249B3E;
+    font-size: 14px;
+    margin-top: 268px;
+
+    text-align: left;
+    margin-left: -125px;
+}
+
+
 .t4 {
 
-    width: 207px;
+    width: 227px;
     height: 295px;
+    border-radius: 5px;
     display: flex;
 
-    margin-top: -294px;
-    margin-left: 769px;
+    border: 1px solid #EDEDED; 
+    background-color: #F5F5F5;
     
+    text-align: center;
+
+    margin-top: -294px;
+    margin-left: 754px;
+    
+}
+
+.azul4 {
+
+    width: 51px;
+    height: 53px;
+    border-radius: 5px;
+    margin-left: 177px;
+    margin-top: -240px;
+
+    background-color: #008ECC;
+}
+
+.off4 {
+
+    color: white;
+    font-size: 15px;
+    padding: 4px;
+    width: 60px;
+    margin-left: auto;
+}
+
+.M53 {
+
+    margin-left: -155px;
+    margin-top: -37px;
+}
+
+.nm4 {
+
+    font-size: 13px;
+    margin: 10px 0 5px;
+
+    text-align: left;
+    margin-left: -165px;
+    margin-top: 140px;
+}
+
+.precio-n4 {
+
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+
+    text-align: left;
+    margin-left: -185px;
+    margin-top: 200px;
+}
+
+.precio-v4 {
+  
+    color: gray;
+    text-decoration: line-through;
+    font-size: 14px;
+    margin-left: 5px;
+    text-align: left;
+    
+}
+
+.save4 {
+
+    color: #249B3E;
+    font-size: 14px;
+    margin-top: 268px;
+
+    text-align: left;
+    margin-left: -125px;
 }
 
 .t5 {
 
+    width: 227px;
+    height: 295px;
+    border-radius: 5px;
     display: flex;
+
+    border: 1px solid #EDEDED; 
+    background-color: #F5F5F5;
+    
+    text-align: center;
 
     margin-top: -298px;
     margin-left: 999px;
 
+}
+
+.azul5 {
+
+    width: 51px;
+    height: 53px;
+    border-radius: 5px;
+    margin-left: 177px;
+    margin-top: -240px;
+
+    background-color: #008ECC;
+}
+
+.off5 {
+
+    color: white;
+    font-size: 15px;
+    padding: 4px;
+    width: 60px;
+    margin-left: auto;
+}
+
+.S22 {
+
+    margin-left: -160px;
+    margin-top: -37px;
+}
+
+.nm5 {
+
+    font-size: 13px;
+    margin: 10px 0 5px;
+
+    text-align: left;
+    margin-left: -160px;
+    margin-top: 140px;
+}
+
+.precio-n5 {
+
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+
+    text-align: left;
+    margin-left: -130px;
+    margin-top: 200px;
+}
+
+.precio-v5 {
+  
+    color: gray;
+    text-decoration: line-through;
+    font-size: 14px;
+    margin-left: 5px;
+    text-align: left;
+    
+}
+
+.save5 {
+
+    color: #249B3E;
+    font-size: 14px;
+    margin-top: 268px;
+
+    text-align: left;
+    margin-left: -120px;
 }
