@@ -51,14 +51,17 @@
 
 .de {
 
-    width: 247px;
-    height: 287px;
+    width: 187px;
+    height: 187px;
+    border-radius: 16px;
     display: flex;
 
     margin-top: 41px;
     margin-left: -8px;
     border-width: 1px;
 
+    border: 1px solid #008ECC;
+    background-color: #F5F5F5;
 }
 
 .de1 {
@@ -67,199 +70,219 @@
     height: 132px;
     display: flex;
 
-    margin-top: -250px;
-    margin-left: 20px;
+    margin-top: -160px;
+    margin-left: -5px;
     
 }
 
 .de11 {
 
-    width: 112px;
-    height: 20px;
     display: flex;
 
-    margin-top: 60px;
-    margin-left: 70px;
+    font-size: 16px;
+    color: #666666;
+    margin-top: 45px;
+    margin-left: 10px;
 
 }
 
 .de111 {
 
-    width: 134px;
-    height: 20px;
     display: flex;
 
-    margin-top: 8px;
-    margin-left: 58px;
+    font-size: 20px;
+    color: #222222;
+    margin-top: 9px;
+    margin-left: 8px;
 
 }
 
 .v1 {
 
-    width: 207px;
-    height: 207px;
+    width: 187px;
+    height: 187px;
+    border-radius: 16px;
     display: flex;
 
     margin-top: -276px;
     margin-left: 245px;
-    border-width: 1px;
+
+    background-color: #F5F5F5;
 
 }
 
 .v2 {
 
-    width: 145px;
-    height: 164px;
     display: flex;
 
-    margin-top: -184px;
-    margin-left: 270px;
+    margin-left: 290px;
+
+    font-size: 16px;
+    color: #666666;
+    margin-top: 40px;
 
 }
 
 .v3 {
 
-    width: 134px;
-    height: 54px;
     display: flex;
 
     margin-top: 35px;
-    margin-left: 295px;
+    margin-left: 255px;
+
+    font-size: 20px;
+    color: #222222;
+    margin-top: 9px;
 
 }
 
 .ff {
 
-    width: 198px;
-    height: 208px;
+    width: 187px;
+    height: 187px;
+    border-radius: 16px;
     display: flex;
 
     margin-top: -277px;
-    margin-left: 476px;
-    border-radius: 16px;
+    margin-left: 445px;
 
+    background-color: #F5F5F5;
 }
 
 .ff1 {
 
-    width: 176px;
-    height: 153px;
+    width: 193px;
+    height: 132px;
     display: flex;
 
-    margin-top: -179px;
+    margin-top: -20px;
     margin-left: 498px;
+    font-size: 16px;
+    color: #666666;
 
 }
 
 .ff2 {
 
-    width: 134px;
-    height: 54px;
     display: flex;
 
-    margin-top: 40px;
-    margin-left: 520px;
+    margin-top: -48px;
+    margin-left: 450px;
+    font-size: 20px;
+    color: #222222;
 
 }
 
 .straw1 {
 
-    width: 197px;
-    height: 210px;
+    width: 187px;
+    height: 187px;
+    border-radius: 16px;
     display: flex;
 
     margin-top: -277px;
-    margin-left: 709px;
-    border-radius: 16px;
+    margin-left: 645px;
+
+    background-color: #F5F5F5;
 
 }
 
 .straw2 {
 
-    width: 176px;
-    height: 153px;
+    width: 193px;
+    height: 132px;
     display: flex;
 
-    margin-top: -179px;
-    margin-left: 720px;
+    margin-top: -20px;
+    margin-left: 708px;
+    font-size: 16px;
+    color: #666666;
 
 }
 
 .straw3 {
 
-    width: 134px;
-    height: 54px;
     display: flex;
 
-    margin-top: 40px;
-    margin-left: 740px;
+    margin-top: -45px;
+    margin-left: 660px;
+    font-size: 20px;
+    color: #222222;
 
 }
 
 .man1 {
 
-    width: 197px;
-    height: 210px;
+    width: 187px;
+    height: 187px;
+    border-radius: 16px;
     display: flex;
 
     margin-top: -277px;
-    margin-left: 929px;
-    border-radius: 16px;
+    margin-left: 845px;
+
+    background-color: #F5F5F5;
 
 }
 
 .man2 {
 
-    width: 168px;
-    height: 136px;
+    width: 193px;
+    height: 132px;
     display: flex;
 
-    margin-top: -170px;
-    margin-left: 940px;
+    margin-top: -20px;
+    margin-left: 908px;
+    font-size: 16px;
+    color: #666666;
 
 }
 
 .man3 {
 
-    width: 134px;
-    height: 54px;
     display: flex;
 
-    margin-top: 46px;
-    margin-left: 960px;
+    margin-top: -45px;
+    margin-left: 860px;
+    font-size: 20px;
+    color: #222222;
 
 }
 
 .che1 {
 
-    width: 197px;
-    height: 210px;
+    width: 187px;
+    height: 187px;
+    border-radius: 16px;
     display: flex;
 
     margin-top: -277px;
-    margin-left: 1159px;
-    border-radius: 16px;
+    margin-left: 1045px;
+
+    background-color: #F5F5F5;
 
 }
 
 .che2 {
 
-    width: 132px;
-    height: 148px;
+    width: 193px;
+    height: 132px;
     display: flex;
 
-    margin-top: -170px;
-    margin-left: 1189px;
+    margin-top: -20px;
+    margin-left: 1108px;
+    font-size: 16px;
+    color: #666666;
 
 }
 
 .che3 {
 
-    width: 134px;
-    height: 54px;
     display: flex;
 
-    margin-top: 39px;
-    margin-left: 1190px;
+    margin-top: -45px;
+    margin-left: 1060px;
+    font-size: 20px;
+    color: #222222;
 
 }
